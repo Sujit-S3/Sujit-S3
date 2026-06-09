@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Surya Sujit 👋
 
-<!--
-**Sujit-S3/Sujit-S3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Cloud & Database Engineering Enthusiast
 
-Here are some ideas to get you started:
+Computer Science Engineering student passionate about building scalable web applications and cloud-based solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express.js, Python, Django
+- Databases: MongoDB, MySQL, PostgreSQL
+- Cloud: Google Cloud Platform (GCP)
+- Tools: Git, GitHub, REST APIs
+
+Certifications
+
+- Meta Full Stack Developer Professional Certificate
+- Google Cloud Database Engineering Professional Certificate
+- JavaScript Programming with React, Node & MongoDB
+
+Current Focus
+
+- Full Stack Development
+- Cloud Database Engineering
+- Backend Development
+- AI-powered Applications
+
+Connect With Me
+
+- LinkedIn: linkedin.com/in/surya-sujit-s-400361381
+- GitHub: github.com/Sujit-S3
