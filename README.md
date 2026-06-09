@@ -29,3 +29,18 @@ Connect With Me
 
 - LinkedIn: linkedin.com/in/surya-sujit-s-400361381
 - GitHub: github.com/Sujit-S3
+
+
+Featured Projects
+
+Paradise Nursery
+
+Plant e-commerce application allowing users to browse and purchase plants through an intuitive interface.
+
+Bookstore Application
+
+Web-based bookstore platform featuring catalog browsing and product management.
+
+E-Plant Shopping
+
+Online plant shopping platform built using modern web development technologies.
