@@ -84,4 +84,4 @@ Surya Sujit
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Sujit-S3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sujit-S3&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
